@@ -6,3 +6,6 @@
 [Link Text](https://colab.research.google.com/drive/1nL0MaiYL4xGrM_2yBmpmDpOySrU___Rz?usp=sharing)
 
 [Link Text](https://colab.research.google.com/drive/1MW2iWpZpRD9gi0o9VNWxHKCbxdmzG2or)
+
+# Python EDS Cisco Certificate 1
+[Python EDS Cisco Certificate 1](python_eds_1_certificate.pdf)
