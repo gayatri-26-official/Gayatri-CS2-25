@@ -8,3 +8,4 @@
 # Python EDS Cisco Certificate 1
 [Python EDS Cisco Certificate 1](python_eds_1_certificate.pdf)
 # Python EDS Cisco Certificate 2
+[Python EDS Cisco Certificate 2](python_eds_2_certificate.pdf)
